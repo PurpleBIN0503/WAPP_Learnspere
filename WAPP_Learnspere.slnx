@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../WAPP_Learnspere.Tests/WAPP_Learnspere.Tests.csproj" />
+  <Project Path="WAPP_Learnspere.csproj" />
+</Solution>
