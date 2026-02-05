@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="../WAPP_Learnspere.Tests/WAPP_Learnspere.Tests.csproj" />
-  <Project Path="WAPP_Learnspere.csproj" />
+  <Project Path="../../../../../../Desktop/Year2/Sem2/WAPP/lab/WAPP_Learnspere.Tests/WAPP_Learnspere.Tests.csproj" Id="b5264577-923b-4fe4-a879-56ccfabc7dad" />
+  <Project Path="../../../../../../Desktop/Year2/Sem2/WAPP/lab/WAPP_Learnspere/WAPP_Learnspere.csproj" Id="a57da90f-ff38-42d7-9a63-66d379de872f" />
 </Solution>
